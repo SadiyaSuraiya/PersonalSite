@@ -1,0 +1,149 @@
+body{
+  background-color: #FAF3F3;
+  color: #2C394B;
+  margin: 0;
+}
+a{
+  margin-right: 25px;
+  text-decoration: none;
+}
+a:hover{
+  color: #1597BB;
+}
+th{
+  font-size: 1.5rem;
+}
+.introText{
+  position: absolute;
+  top: 100px;
+  left: 200px;
+}
+.linkSection{
+  position: absolute;
+  top: 50px;
+  left: 650px;
+}
+.firstIntro{
+  margin-bottom: 0;
+}
+.secondIntro{
+  margin-top: 0;
+}
+.proPic{
+  border-radius: 100%;
+  position: absolute;
+  top: 270px;
+  left: 200px;
+}
+.descriptiom{
+  position: absolute;
+  top: 150px;
+  left: 650px;
+}
+.salam{
+  font-size: 2.5rem;
+}
+.aboutMe{
+  font-size: 2rem;
+}
+.left{
+  background-color: #F05454;
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  position: absolute;
+  top: 350px;
+  left: 650px;
+}
+.text1, .text2, .text3{
+  color: #FDF6F0;
+  font-size: 1.2rem;
+  position: absolute;
+  bottom: 45%;
+  width: 100%;
+  text-align: center;
+}
+.middle{
+  background-color: #1597BB;
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  position: absolute;
+  top: 350px;
+  left: 850px;
+}
+
+.right{
+  background-color: #9C3D54;
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  position: absolute;
+  top: 350px;
+  left: 1050px;
+}
+
+.details{
+  font-size: 1.5rem;
+  text-align: left;
+  position: absolute;
+  top: 600px;
+  left: 650px;
+  width: 40%;
+}
+.footer{
+
+  background-color: #9C3D54;
+  margin: 800px 0 0;
+  padding-left: 0;
+  padding-right: 0;
+  height: 150px;
+}
+.footImg{
+  margin-left: 130px;
+  margin-right: 10px;
+  margin-top: 40px;
+}
+.footText{
+  display: inline-block;
+  font-size: 1.2rem;
+  margin-top: 30px;
+}
+.education{
+  position: absolute;
+  top: 100px;
+  left: 200px;
+}
+.education-details{
+  font-size: 1.2rem;
+}
+.skills{
+  position: absolute;
+  top: 100px;
+  left: 200px;
+}
+.skillImg1{
+  padding: 30px;
+}
+.skillImg2{
+  float: right;
+  position: absolute;
+  left: 550px;
+  top: 390px;
+}
+.skill1{
+  float: right;
+  font-size: 1.5rem;
+  margin-top: 25px;
+  margin-right: 500px;
+  text-align: left;
+  width: 35%;
+}
+.skill2{
+  font-size: 1.5rem;
+  margin-top: 50px;
+  padding-right: 0;
+  margin-right: 0;
+  text-align: left;
+  width: 35%;
+}
